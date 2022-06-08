@@ -1,0 +1,21 @@
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\bin\Debug\Exchange Rates.exe.config
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\bin\Debug\Exchange Rates.exe
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\bin\Debug\Exchange Rates.pdb
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\obj\Debug\Exchange Rates.csproj.AssemblyReference.cache
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\obj\Debug\Exchange Rates.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\obj\Debug\Exchange_Rates.Form1.resources
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\obj\Debug\Exchange_Rates.Properties.Resources.resources
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\obj\Debug\Exchange Rates.csproj.GenerateResource.cache
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\obj\Debug\Exchange Rates.csproj.CoreCompileInputs.cache
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\obj\Debug\Exchange Rates.exe
+D:\Visual Studio Apps\Simulation\Exchange Rates\Exchange Rates\obj\Debug\Exchange Rates.pdb
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\bin\Debug\Exchange Rates.exe.config
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\bin\Debug\Exchange Rates.exe
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\bin\Debug\Exchange Rates.pdb
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\obj\Debug\Exchange Rates.csproj.AssemblyReference.cache
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\obj\Debug\Exchange_Rates.Form1.resources
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\obj\Debug\Exchange_Rates.Properties.Resources.resources
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\obj\Debug\Exchange Rates.csproj.GenerateResource.cache
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\obj\Debug\Exchange Rates.csproj.CoreCompileInputs.cache
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\obj\Debug\Exchange Rates.exe
+C:\Users\badma\OneDrive\Рабочий стол\Lab13\Exchange Rates\obj\Debug\Exchange Rates.pdb
